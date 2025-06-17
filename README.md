@@ -42,8 +42,8 @@ assistente-csv-ia/
 
 ```bash
 # 1. Clone o repositório
-$ git clone https://github.com/<seu_usuario>/assistente-csv-ia.git
-$ cd assistente-csv-ia
+$ git clone https://github.com/artpedro/chat-csv.git
+$ cd chat-csv
 
 # 2. Crie e ative um ambiente virtual (opcional, mas recomendado)
 $ python -m venv .venv
@@ -64,7 +64,7 @@ $ streamlit run app.py
 ```
 
 1. Abra o navegador na URL indicada (geralmente `http://localhost:8501`).
-2. **(Opcional)** Informe sua `OPENAI_API_KEY` no expansor de Configurações Avançadas.
+2. Informe sua `OPENAI_API_KEY` no expansor de Configurações Avançadas.
 3. Faça **upload** de um arquivo CSV.
 4. Digite sua **pergunta** em português.
 5. Clique em **Analisar** e aguarde a resposta.
@@ -86,8 +86,6 @@ OPENAI_API_KEY = "sk‑..."
 ---
 
 ## 🖼️ Capturas de Tela
-
-> *(Opcional: adicione aqui imagens do app em uso)*
 
 ---
 
