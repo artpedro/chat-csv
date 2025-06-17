@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/f1582184-5934-4fa7-aa7a-1e647a5cbfe4
 
 ## 🧩 Arquitetura do Projeto
 
+![EsquemaVisualAgentes - I2A2](https://github.com/user-attachments/assets/de79a72f-dbb0-48a3-8123-9b7654ba60a9)
+
 ```
 assistente-csv-ia/
 ├─ app.py                # Código principal (interface + lógica)
