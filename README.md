@@ -3,6 +3,7 @@
 Análise inteligente de arquivos CSV usando um sistema **multi‑agente** (LangGraph + OpenAI) com interface **Streamlit**.
 
 > *Faça upload de um CSV ➜ digite uma pergunta em português ➜ receba insights em segundos.*
+
 https://github.com/user-attachments/assets/f1582184-5934-4fa7-aa7a-1e647a5cbfe4
 
 ---
