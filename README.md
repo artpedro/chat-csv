@@ -84,11 +84,6 @@ Crie um arquivo `.streamlit/secrets.toml` se preferir:
 ```toml
 OPENAI_API_KEY = "sk‑..."
 ```
-
----
-
-## 🖼️ Capturas de Tela
-
 ---
 
 ## 🤝 Contribuindo
