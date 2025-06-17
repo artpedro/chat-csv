@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/f1582184-5934-4fa7-aa7a-1e647a5cbfe4
 
 ## 🧩 Arquitetura do Projeto
 
-![EsquemaVisualAgentes - I2A2](https://github.com/user-attachments/assets/de79a72f-dbb0-48a3-8123-9b7654ba60a9)
+![EsquemaVisualAgentes](https://github.com/user-attachments/assets/59250549-b8f7-4a3f-9d86-f911ff47acfc)
 
 ```
 assistente-csv-ia/
